@@ -41,6 +41,10 @@ body {
   border-radius: 30%;
 }
 
+.timer__logo {
+  width: 5rem;
+}
+
 .timer__counter {
   font-size: 5rem;
   font-weight: 700;
