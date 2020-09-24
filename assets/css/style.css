@@ -1,0 +1,89 @@
+:root {
+  --primary-color-light: #4f4f4f;
+  --primary-color: #333;
+
+  --color-red: #EB5757;
+
+  --color-green-light: #6FCF97;
+  --color-green: #27AE60;
+  --color-green-dark: #219653;
+
+  --color-blue-light: #56CCF2;
+  --color-blue: #2D9CDB;
+  --color-blue-dark: #2F80ED;
+}
+
+* {
+  box-sizing: border-box;
+  outline: 0;
+}
+
+body {
+  display: flex;
+  margin: 0;
+  padding: 0;
+  background: var(--primary-color);
+  font-family: 'Open sans', sans-serif;
+  font-size: 1.3rem;
+  line-height: 1.5rem;
+}
+
+.timer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-width: 800px;
+  margin: 20px auto;
+
+  background: #e5e5e5;
+  padding: 20px;
+  border-radius: 30%;
+}
+
+.timer__counter {
+  font-size: 5rem;
+  font-weight: 700;
+  margin: 2rem 0;
+
+  color: var(--primary-color);
+}
+
+.timer__counter--paused {
+  color: var(--color-red);
+}
+
+.button {
+  height: 3rem;
+  width: 5rem;
+  font-size: 18px;
+  font-weight: 700;
+  cursor: pointer;
+  border-radius: .8rem;
+  transition: .2s;
+  border: none;
+  margin: 0.5rem;
+}
+
+.button--start {
+  color: #FFF;
+	background: var(--color-green);
+}
+
+.button--start:hover {
+	background: var(--color-green-dark);
+}
+
+.button--pause {
+  color: #FFF;
+  background: var(--color-red);
+}
+
+.button--restart {
+  color: #FFF;
+  background: var(--color-blue);
+}
+
+.button--restart:hover {
+  background: var(--color-blue-dark);
+}
