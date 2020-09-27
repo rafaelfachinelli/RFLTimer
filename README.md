@@ -34,11 +34,10 @@ Timer developed in the basic programming languages of web development for the st
 
 |Status|Plataform|Task|
 |:---:|:---:|:---|
-|:heavy_check_mark:|:computer:        |Estruturar página inicial|
-|:heavy_check_mark:|:computer::iphone:|Estilizar página inicial|
-|:heavy_check_mark:|:computer:        |Estruturar página de busca|
-|:heavy_check_mark:|:computer::iphone:|Estilizar página de busca|
-
+|:heavy_check_mark:|:computer::iphone:|Build semantic page HTML|
+|:heavy_check_mark:|:computer::iphone:|Build resposive CSS|
+|:heavy_check_mark:|:computer::iphone:|CSS in BEM|
+|:heavy_check_mark:|:computer::iphone:|Build JavaScript logic|
 
 </div>
 
