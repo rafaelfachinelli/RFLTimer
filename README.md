@@ -1,4 +1,76 @@
-# RFLTimer
+<div align="center">
+  
+# RFL Timer
+
+</div>
+
+<p align="center"> 
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/proffy-omnistack?style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/proffy-omnistack?style=for-the-badge">
+  <a href="https://github.com/rafaelfachinelli">
+    <img alt="Developed by Rafael Fachinelli" src="https://img.shields.io/badge/developer-Rafael Fachinelli-%237519C1?style=for-the-badge">
+  </a>
+  <img alt="Project License" src="https://img.shields.io/github/license/rafaelfachinelli/Proffy?style=for-the-badge"/>
+<p>
+
+<p align="center">
+ <a href="#computer-about">About</a> •
+ <a href="#memo-guide">Guide</a> •
+ <a href="#movie_camera-demo">Demo</a> •
+ <a href="#hammer-technologies">Technologies</a> •
+ <a href="#boy-autor">Autor</a> •
+ <a href="#page_facing_up-license">License</a>
+</p>
+
+---
+## :computer: About
+
+---
+## :memo: **Guide**
+
+<div align="center">
+
+|Status|Plataform|Task|
+|:---:|:---:|:---|
+|:heavy_check_mark:|:computer:        |Estruturar página inicial|
+|:heavy_check_mark:|:computer::iphone:|Estilizar página inicial|
+|:heavy_check_mark:|:computer:        |Estruturar página de busca|
+|:heavy_check_mark:|:computer::iphone:|Estilizar página de busca|
+
+
+</div>
+
+---
+## :movie_camera: **Demo**
+
+<p align="center"><b> :computer: WEB DESKTOP </b></p>
+
+<p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./.github/demo-desk-study.gif"></kbd> <kbd><img width="450" style="border-radius: 5px" height="250" alt="Demonstração do Aplicativo Proffy" src="./.github/demo-desk-give-classes.gif"></kbd></p>
+
+<p align="center"><b> :iphone: WEB MOBILE </b></p>
+
+<div align="center">
+
+Busca | Cadastro 
+---|---
+<img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./.github/demo-mobile-study.gif"> | <img width="280" style="border-radius: 5px" height="450" alt="Demonstração do Aplicativo Proffy" src="./.github/demo-mobile-give-classes.gif"> |
+
+</div>
+
+---
+## :hammer: **Technologies**
+
+As seguintes ferramentas foram utilizadas na construção do projeto:
+
+<div align="center">
+
+|WEB Responsivo|
+|:---:|
+|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)|
+|[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)|
+|[JavaScript](https://www.ecma-international.org/publications/standards/Ecma-262.htm)|
+
+</div>
 
 ---
 ### :boy: **Autor**
@@ -18,3 +90,16 @@ Developed with ❤️ by Rafael Fachinelli 👋🏽 Contact me!
 [![Outlook Badge](https://img.shields.io/badge/-rafael.fachinelli@fatec.sp.gov.br-0078d4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:rafael.fachinelli@fatec.sp.gov.br)](mailto:rafael.fachinelli@fatec.sp.gov.br)
 
 </div>
+
+---
+## :page_facing_up: **License**
+
+<div align="center">
+
+Copyright © 2020 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
+Project licensed by [MIT](./LICENSE).
+
+</div>
+
+
+---
