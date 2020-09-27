@@ -60,7 +60,7 @@ Busca | Cadastro
 ---
 ## :hammer: **Technologies**
 
-The following tools were used in the construction of the project:
+The following tools were used in the build of the project:
 
 <div align="center">
 
