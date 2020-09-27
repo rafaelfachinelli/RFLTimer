@@ -35,8 +35,8 @@ Timer developed in the basic programming languages of web development for the st
 |:---:|:---:|:---|
 |:heavy_check_mark:|:computer::iphone:|Build semantic page HTML|
 |:heavy_check_mark:|:computer::iphone:|Build responsive CSS|
-|:heavy_check_mark:|:computer::iphone:|CSS in BEM|
-|:heavy_check_mark:|:computer::iphone:|Build JavaScript logic|
+|:heavy_check_mark:|:computer:|CSS in BEM|
+|:heavy_check_mark:|:computer:|Build JavaScript logic|
 
 </div>
 
