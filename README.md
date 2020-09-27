@@ -25,6 +25,8 @@
 ---
 ## :computer: About
 
+Timer developed in the basic programming languages of web development for the study of JavaScript DOM and Intervals.
+
 ---
 ## :memo: **Guide**
 
