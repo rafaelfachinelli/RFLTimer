@@ -4,12 +4,12 @@
 </div>
 
 <p align="center"> 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/proffy-omnistack?style=for-the-badge">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/proffy-omnistack?style=for-the-badge">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/RFLTimer?style=for-the-badge">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/rafaelfachinelli/RFLTimer?style=for-the-badge">
   <a href="https://github.com/rafaelfachinelli">
     <img alt="Developed by Rafael Fachinelli" src="https://img.shields.io/badge/developer-Rafael Fachinelli-%237519C1?style=for-the-badge">
   </a>
-  <img alt="Project License" src="https://img.shields.io/github/license/rafaelfachinelli/Proffy?style=for-the-badge"/>
+  <img alt="Project License" src="https://img.shields.io/github/license/rafaelfachinelli/RFLTimer?style=for-the-badge"/>
 <p>
 
 <p align="center">
