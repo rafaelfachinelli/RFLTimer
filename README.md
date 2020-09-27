@@ -60,11 +60,11 @@ Busca | Cadastro
 ---
 ## :hammer: **Technologies**
 
-As seguintes ferramentas foram utilizadas na construção do projeto:
+The following tools were used in the construction of the project:
 
 <div align="center">
 
-|WEB Responsivo|
+|WEB Responsive|
 |:---:|
 |[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)|
 |[CSS3](https://developer.mozilla.org/pt-BR/docs/Archive/CSS3)|
