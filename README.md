@@ -13,7 +13,7 @@
  <a href="#computer-about">About</a> •
  <a href="#memo-guide">Guide</a> •
  <a href="#movie_camera-demo">Demo</a> •
- <a href="#hammer-tecnologias">Tecnologias</a> •
+ <a href="#hammer-technologies">Technologies</a> •
  <a href="#boy-autor">Autor</a> •
  <a href="#page_facing_up-license">License</a>
 </p>
@@ -54,7 +54,7 @@ Busca | Cadastro
 </div>
 
 ---
-## :hammer: **Tecnologias**
+## :hammer: **Technologies**
 
 As seguintes ferramentas foram utilizadas na construção do projeto:
 
