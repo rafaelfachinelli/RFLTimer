@@ -1,4 +1,8 @@
-<img alt="Proffy" src="./.github/banner.png">
+<div align="center">
+  
+# RFL Timer
+
+</div>
 
 <p align="center"> 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/rafaelfachinelli/proffy-omnistack?style=for-the-badge">
