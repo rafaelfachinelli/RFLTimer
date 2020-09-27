@@ -1,5 +1,5 @@
 <div align="center">
-  
+<img src="./.github/logo.svg"
 # RFL Timer
 
 </div>
