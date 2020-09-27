@@ -11,6 +11,8 @@
   --color-blue-light: #56CCF2;
   --color-blue: #2D9CDB;
   --color-blue-dark: #2F80ED;
+
+  --color-white: #e5e5e5;
 }
 
 * {
@@ -36,7 +38,7 @@ body {
   max-width: 800px;
   margin: 20px auto;
 
-  background: #e5e5e5;
+  background: var(--color-white);
   padding: 20px;
   border-radius: 30%;
 }
@@ -70,7 +72,7 @@ body {
 }
 
 .button--start {
-  color: #FFF;
+  color: var(--color-white);
 	background: var(--color-green);
 }
 
@@ -79,12 +81,12 @@ body {
 }
 
 .button--pause {
-  color: #FFF;
+  color: var(--color-white);
   background: var(--color-red);
 }
 
 .button--restart {
-  color: #FFF;
+  color: var(--color-white);
   background: var(--color-blue);
 }
 
