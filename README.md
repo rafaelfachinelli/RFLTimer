@@ -49,7 +49,7 @@ Timer developed in the basic programming languages of web development for the st
 
 <p align="center"><b> :iphone: WEB MOBILE </b></p>
 
-<p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="RFLTimer Desktop Demo" src="./.github/demo-mobile-RFLTimer.gif"></kbd></p>
+<p align="center"><kbd><img width="450" style="border-radius: 5px" height="250" alt="RFLTimer Mobile Demo" src="./.github/demo-mobile-RFLTimer.gif"></kbd></p>
 
 ---
 ## :hammer: **Technologies**
