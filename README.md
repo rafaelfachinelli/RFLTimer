@@ -67,7 +67,7 @@ The following tools were used in the build of the project:
 </div>
 
 ---
-### :boy: **Autor**
+## :boy: **Autor**
 
 <div align="center">
 
