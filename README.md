@@ -12,7 +12,7 @@
 <p align="center">
  <a href="#computer-about">About</a> •
  <a href="#memo-guide">Guide</a> •
- <a href="#movie_camera-demonstração">Demo</a> •
+ <a href="#movie_camera-demo">Demo</a> •
  <a href="#hammer-tecnologias">Tecnologias</a> •
  <a href="#boy-autor">Autor</a> •
  <a href="#page_facing_up-license">License</a>
@@ -37,7 +37,7 @@
 </div>
 
 ---
-## :movie_camera: **Demonstração**
+## :movie_camera: **Demo**
 
 <p align="center"><b> :computer: WEB DESKTOP </b></p>
 
