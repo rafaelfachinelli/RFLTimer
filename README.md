@@ -1,7 +1,7 @@
 <div align="center">
-<img src="./.github/logo.svg"
-# RFL Timer
+  <p><img src="./.github/logo.svg"</p>
 
+  # RFL Timer
 </div>
 
 <p align="center"> 
