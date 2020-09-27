@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="./.github/logo.svg">
   <h1>RFL Timer</h1>
+  <img src="./.github/logo.svg" width="100px">
 </div>
 
 <p align="center"> 
