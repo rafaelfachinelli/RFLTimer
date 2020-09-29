@@ -30,6 +30,8 @@ Timer developed in the basic programming languages of web development for the st
 ## :memo: **Guide**
 
 <div align="center">
+<details>
+<summary>Click to View</summary>
 
 |Status|Plataform|Task|
 |:---:|:---:|:---|
@@ -38,6 +40,7 @@ Timer developed in the basic programming languages of web development for the st
 |:heavy_check_mark:|:computer:|CSS in BEM|
 |:heavy_check_mark:|:computer:|Build JavaScript logic|
 
+</details>
 </div>
 
 ---
