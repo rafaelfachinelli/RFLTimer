@@ -44,12 +44,12 @@ Timer developed in the basic programming languages of web development for the st
 <details>
 <summary>Click to View</summary>
 
-|Status|Plataform|Task|
-|:---:|:---:|:---|
-|:heavy_check_mark:|:computer::iphone:|Build semantic page HTML|
-|:heavy_check_mark:|:computer::iphone:|Build responsive CSS|
-|:heavy_check_mark:|:computer:|CSS in BEM|
-|:heavy_check_mark:|:computer:|Build JavaScript logic|
+|Status|Task|
+|:---:|:---|
+|:heavy_check_mark:|Build semantic page HTML|
+|:heavy_check_mark:|Build responsive CSS|
+|:heavy_check_mark:|CSS in BEM|
+|:heavy_check_mark:|Build JavaScript logic|
 
 </details>
 </div>
