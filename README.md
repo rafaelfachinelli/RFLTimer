@@ -16,7 +16,7 @@
  <a href="#computer-about">About</a> •
  <a href="#memo-guide">Guide</a> •
  <a href="#hammer-technologies">Technologies</a> •
- <a href="#boy-autor">Autor</a> •
+ <a href="#boy-author">Author</a> •
  <a href="#page_facing_up-license">License</a>
 </p>
 
@@ -69,7 +69,7 @@ The following tools were used in the build of the project:
 </div>
 
 ---
-## :boy: **Autor**
+## :boy: **Author**
 
 <div align="center">
 
