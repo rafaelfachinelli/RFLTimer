@@ -92,7 +92,7 @@ Developed with ❤️ by Rafael Fachinelli 👋🏽 Contact me!
 
 <div align="center">
 
-Copyright © 2020 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
+Copyright © 2021 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
 Project licensed by [MIT](./LICENSE).
 
 </div>
