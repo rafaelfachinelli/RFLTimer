@@ -91,10 +91,7 @@ Developed with ❤️ by Rafael Fachinelli 👋🏽 Contact me!
 ## :page_facing_up: **License**
 
 <div align="center">
-
-Copyright © 2021 [Rafael Fachinelli](https://github.com/rafaelfachinelli).<br />
-Project licensed by [MIT](./LICENSE).
+  
+[![License](https://github.com/rafaelfachinelli/rafaelfachinelli/blob/master/.github/license.svg)](./LICENSE)
 
 </div>
-
----
